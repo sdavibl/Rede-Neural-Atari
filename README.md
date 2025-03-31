@@ -1,4 +1,4 @@
-# Rede-Neural-Atari
+# Atari Pong with Reinforcment Learning
 In this small project, I, using my knowledge of Python and A.I., created a small code capable of generating an A.I. that learned to play Atari, through Reinforcement Learning
 
 To create this neural network, I used the Reinforcement Learning technique, using the Proximal Policy Optimization (PPO) algorithm. The main idea behind this algorithm is to avoid very sudden changes in the agent's policy. Because it doesn't use a replay-buffer (it doesn't record past experiences), it doesn't consume as much memory and the computational cost is reduced, while still being able to produce good results.
